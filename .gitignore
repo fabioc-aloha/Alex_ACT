@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+*.tsbuildinfo
+
+# Generated images (keep originals, ignore test artifacts)
+test-*.png
+beach-runner.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
