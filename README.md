@@ -1,5 +1,7 @@
 # Alex ACT-Only Heir
 
+> **Note:** Part of the Alex ACT family. The current flagship release is [Alex_ACT_ONE](https://github.com/fabioc-aloha/Alex_ACT_ONE).
+
 **Hypothesis**: Pure reasoning discipline + rapid learning + genuine partnership can outperform extensive pre-accumulated domain knowledge.
 
 ## What This Is
